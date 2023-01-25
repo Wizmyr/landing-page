@@ -77,3 +77,23 @@ body {
     margin-bottom: 50px;
     color: #1f2937
 }
+
+.sectionthree {
+    background-color: #e5e7eb
+}
+
+.sectionthree > .header {
+    padding: 200px
+}
+.header > .quote {
+    font-size: 36px;
+    font-style: italic;
+    font-weight: lighter;
+    color: #1f2937
+}
+
+.odin {
+    font-size: 26px;
+    font-weight: bold;
+    text-align: end;
+}

@@ -97,3 +97,33 @@ body {
     font-weight: bold;
     text-align: end;
 }
+
+.sectionfour {
+    background-color: #f9faf8;
+    margin: auto;
+    padding: 250px;
+    display: flex;
+    flex-direction: column;
+    justify-self: center;
+    align-items: center;
+}
+
+button {
+    background-color: #3882f6;
+    border-radius: 20px;
+    padding: 40px;
+    width: 800px;
+}
+
+.action {
+    color: white;
+    font-size: 28px;
+    font-weight: bold;
+    display: flex;
+}
+
+.title-button > p {
+    display: flex;
+    color: white;
+    font-size: 20px;
+}

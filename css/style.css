@@ -3,3 +3,26 @@ body {
     margin: 0;
     height: 100vh
 }
+
+
+.sectionone > .header {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+/* 
+.header > .title {
+    display: flex;
+}
+
+.header > .links {
+    display: flex;
+    justify-content: end;
+}
+*/
+ul {
+    list-style: none;
+    display: inline-flex;
+    gap: 10px
+}

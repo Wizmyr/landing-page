@@ -39,6 +39,11 @@ body {
     gap: 10px
 }
 
+a {
+    text-decoration: none;
+    color: #e5e7eb
+}
+
 .sectiontwo {
     background-color: #f9faf8;
     margin: auto;
@@ -85,6 +90,7 @@ body {
 .sectionthree > .header {
     padding: 200px
 }
+
 .header > .quote {
     font-size: 36px;
     font-style: italic;
